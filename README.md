@@ -21,3 +21,6 @@ Project is created with:
 	- 5 220 Ohm resistors
 	- 4 10k Ohm resistors
 	- 1 breadboard
+
+### Wiring Diagram
+![Fritzing Diagram](media/simon_says_circuit.png)
