@@ -4,6 +4,7 @@ A simple Simon Says game for the Raspberry Pi.
 ## Table of Contents
 - [Project Description](#project-description)
 - [Technologies](#technologies)
+- [Wiring Diagram](#wiring-diagram)
 
 ### Project Description
 This is a simple Simon Says game originally made for the Raspberry Pi 3 Model B+.
