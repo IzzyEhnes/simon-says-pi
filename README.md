@@ -24,4 +24,4 @@ Project is created with:
 
 ### Wiring Diagram
 ![Fritzing Diagram](media/simon_says_circuit.png)
-The above diagram was created using ![Fritzing](https://fritzing.org/)
+The above diagram was created using [Fritzing](https://fritzing.org/)
