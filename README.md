@@ -1,5 +1,4 @@
-# Simon Says 
-####*A py for a pi*
+# Simon Says: A py game for the pi
 A Simon Says game for the Raspberry Pi. 
 
 ## Table of Contents
